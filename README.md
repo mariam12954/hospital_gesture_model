@@ -1,6 +1,10 @@
 Hospital Gesture Recognition System 
+
+
+
 I built this project to create a touchless gesture recognition system that can understand hand gestures using a camera and convert them into meaningful actions in a hospital environment.
 The main idea was to design a system that allows patients or doctors to interact with a computer without touching any device. This is especially important in medical environments where hygiene, accessibility, and touchless interaction are critical.
+
 This project is not just a classification model. It is a complete pipeline that starts from dataset preparation and training, and ends with real-time gesture recognition and action execution.
 
 Project Overview
